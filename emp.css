@@ -1,0 +1,29 @@
+
+fieldset{
+    background-color: cornflowerblue;
+    width: 20%;
+    border-radius: 20%
+}
+.lol{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .lol td, .lol th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .lol tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .lol tr:hover {background-color: #ddd;}
+  
+  .lol th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: cornflowerblue;
+    color: white;
+  }
+
